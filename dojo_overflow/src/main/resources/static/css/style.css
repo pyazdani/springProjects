@@ -1,0 +1,68 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+thead > tr {
+	background-color: #808080;	
+}
+
+tr {
+	text-align: center;
+}
+
+tbody > tr:nth-child(even) {
+	background-color: #DCDCDC;
+}
+
+.error {
+	color: red;
+}
+
+button, input[type=submit] {
+	background-color: white;
+	border: 1.5px solid black;
+	height: 25px;
+	box-shadow: 3px 3px 2px black;
+	margin-right: 20px;
+}
+
+#tag {
+	margin-bottom: 20px;
+}
+#tag h2, #tag-buttons {
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#tag h2 {
+	margin: 0;
+}
+
+#answer-container {
+	display: flex;
+}
+
+#answer-table {
+	width: 40%;
+}
+
+#answer-form {
+	margin-left: auto;
+	width: 40%;
+}
+
+#answer-form p {
+	margin-top: 0;
+}
+

@@ -1,0 +1,16 @@
+.red{
+	color: red;
+}
+
+.green{
+	color: green;
+}
+
+.activities{
+	height: 100px;
+	overflow: auto;
+}
+
+body{
+	background: blue;
+}

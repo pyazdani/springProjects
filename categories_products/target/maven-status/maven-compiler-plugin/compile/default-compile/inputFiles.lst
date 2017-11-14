@@ -1,0 +1,12 @@
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/services/CategoryProductService.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/controllers/CategoryController.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/repositories/CategoryProductRepository.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/services/CategoryService.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/controllers/ProductController.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/models/Product.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/repositories/ProductRepository.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/services/ProductService.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/models/CategoryProduct.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/categories_productsApplication.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/models/Category.java
+/Users/kavskasaei/Desktop/springProjects/categories_products/src/main/java/com/project/categories_products/repositories/CategoryRepository.java
